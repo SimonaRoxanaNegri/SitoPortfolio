@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Presto.it",
+        "category": "Sviluppo Siti",
+        "url": "https://gitlab.com/simonaroxananegri/group_blacksheep_presto.it"
+    },
+    {
+        "id": 2,
+        "name": "404MuseumNotFound",
+        "category": "Sviluppo Siti",
+        "url": "https://gitlab.com/simonaroxananegri/404_museum_not_found"
+    },
+    {
+        "id": 3,
+        "name": "Red - Mountains",
+        "category": "Lavori Grafici",
+        "url": "https://simonaroxananegri.gitlab.io/template_red_mountains/"
+    },
+    {
+        "id": 4,
+        "name": "Behance",
+        "category": "Lavori Grafici",
+        "url": "https://www.behance.net/simonanegri"
+    },
+    {
+        "id": 5,
+        "name": "DealPro.it",
+        "category": "Sviluppo Siti",
+        "url": "https://simonaroxananegri.gitlab.io/dealpro.it_simonaroxananegri/"
+    },
+    {
+        "id": 6,
+        "name": "App Counter",
+        "category": "Sviluppo App",
+        "url": "https://app-counter-250eb.web.app/"
+    }
+]
