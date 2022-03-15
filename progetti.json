@@ -34,5 +34,11 @@
         "name": "App Counter",
         "category": "Sviluppo App",
         "url": "https://app-counter-250eb.web.app/"
+    },
+    {    
+        "id": 7,
+        "name": "MetroChat",
+        "category": "Sviluppo App",
+        "url": "https://simonaroxananegri.github.io/MetroChat/"
     }
 ]
